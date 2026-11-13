@@ -1,0 +1,11 @@
+BUILD DEPENDENCIES
+
+Verified compiler: MSYS2 UCRT64 GCC 16.2.0, x86_64-w64-mingw32.
+Required externally: 64-bit Windows, Windows PowerShell, GCC on PATH.
+GUI run/test: Windows system UCRT and OpenGL 3.3-capable driver. CMake/Ninja are optional, untested here.
+Included: raylib 5.5 raylib.h, libraylib.a and original LICENSE only.
+No dependency ZIP, compiler, PDF runtime or additional runtime DLL is bundled.
+
+5181A1E739762E32CB851EE4DFECD8B51E4861290C38C312C188284677C58BCB  include/raylib.h
+434E2475F3B74CA625E49EADA239B3A5DCA79F5C468D2FF82820FFA0791CEFF9  lib/libraylib.a
+A56F6EDB2E1094CCC49A95D6795D79A53AF05543C68732F8A1018DC5319FA477  LICENSE
